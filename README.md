@@ -61,7 +61,7 @@ The project demonstrates low-level peripheral interfacing, modular embedded firm
 
 # Proteus Simulation
 
-<img src="images/proteus_simulation.png" width="700">
+<img src="proteus_simulation.png" width="700">
 
 
 
